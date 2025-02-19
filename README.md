@@ -1,5 +1,6 @@
 # Hi! I'm Nayeli De Anda
 ##### Master's Student in Computational Social Science @ UC Berkeley
+##### Contact Info: www.linkedin.com/in/nayeli-de-anda  
 
 ## About me: 
 Hi, I’m Nayeli De Anda, a Master’s student in Computational Social Science at UC Berkeley, where I use data to examine social inequities and inform policy. I hold a B.A. in Sociology with a Math minor from Sacramento State, where I developed a passion for making data more accessible, ethical, and impactful.
@@ -49,3 +50,5 @@ I’m passionate about bridging data science with real-world issues, particularl
  - Applied data-driven decision-making to address facility management challenges and improve student engagement.
 Developed adaptable problem-solving skills by managing real-time operational data and responding to unexpected issues.
 # Data Analysis Projects
+
+
