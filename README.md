@@ -8,9 +8,9 @@ Previously, I worked at the Institute for Social Research, analyzing large datas
 
 I’m passionate about bridging data science with real-world issues, particularly in health equity, misinformation, and privacy ethics. As a bilingual advocate for inclusive data practices, I strive to ensure data analysis amplifies diverse voices rather than excludes them.
 
-#### Technical Skills/Tools: SPSS, R, Python (Exploratory Data Analysis, Regression, Classification, pandas, NumPy, Matplotlib), Excel, Microsoft Word 
+### Technical Skills/Tools: SPSS, R, Python (Exploratory Data Analysis, Regression, Classification, pandas, NumPy, Matplotlib), Excel, Microsoft Word 
  
-#### Foundation Skills: 
+### Foundation Skills: 
   - Collaboration
   - Conflict resolution
   - Adaptability
