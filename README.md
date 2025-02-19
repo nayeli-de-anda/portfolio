@@ -24,10 +24,10 @@ I’m passionate about bridging data science with real-world issues, particularl
   - Teamwork
   - Curiosity
 
-# Education
+## Education
 -B.S., Sociology with a minor in math | California State University, Sacramento
 
-# Work Experience
+## Work Experience
 ** Intern for a Research Specialist @Institute for Social Research - Sacramento State |September 2022- December 2023 
  - Cleaned, transformed, and managed large datasets to ensure quality, consistency, and reliability for social research projects.
  - Merged and validated data in SPSS, generating reports that informed grant allocations and program evaluations.
@@ -49,6 +49,6 @@ I’m passionate about bridging data science with real-world issues, particularl
  - Coordinated large-scale events such as Phlageblast (Sacramento State Open House), using attendance and engagement metrics to optimize future planning.
  - Applied data-driven decision-making to address facility management challenges and improve student engagement.
 Developed adaptable problem-solving skills by managing real-time operational data and responding to unexpected issues.
-# Data Analysis Projects
+## Data Analysis Projects
 
 
