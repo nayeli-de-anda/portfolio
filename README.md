@@ -53,7 +53,7 @@ Developed adaptable problem-solving skills by managing real-time operational dat
 
 [Transportation Accessibility & Economic Impact in Yolo and Alameda Counties](https://github.com/nayeli-de-anda/transportation-access-yolo-alameda)
  - Reliable transportation supports economic stability, job access, and mobility. This project analyzes vehicle access disparities in Yolo and Alameda Counties, comparing them to California averages to assess impacts on housing stability, displacement, and inequality. By examining renters vs. homeowners, the study offers policy insights to improve mobility for vulnerable groups.
-Using ACS 2022 data, the analysis highlights vehicle ownership gaps. Alameda renters face the greatest challenges, with 16.6% lacking vehicle access, compared to 13.4% in Yolo and 12.1% statewide. Homeowners have far lower rates (2.6% – 3.1%).
+Using ACS 2022 data, the analysis shows vehicle ownership gaps. Alameda renters face the greatest challenges, with 16.6% lacking vehicle access, compared to 13.4% in Yolo and 12.1% statewide. Homeowners have far lower rates (2.6% – 3.1%).
  - Key Policy Takeaways
    - Expand public transit in rural areas (Yolo) to reduce car dependency.
    - Increase affordable housing near transit (Alameda) to improve renter access.
